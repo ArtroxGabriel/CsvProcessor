@@ -6,7 +6,7 @@ escrito em c.
 Objetivo consistia em gerar um _Shared Object_ que implementasse o processamento
 de csv atendendo à interface compartilhada no arquivo [libscsv](./libcsv.h)
 
-A descrição do desafio e requisitos está descrita no documento [challenge](./Challenge.md)
+A descrição do desafio e requisitos está descrita no documento [challenge](./Challenge-en.md)
 
 > Sicrano é um empresa ficticia criada para anonimizar a empresa real.
 >
