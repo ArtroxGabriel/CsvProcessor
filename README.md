@@ -1,5 +1,7 @@
 # Solução - Code Challenge
 
+[English version](./README-EN.md)
+
 Solucao de um code challenge proposto pela empresa `Sicrano` durante um processo
 seletivo. A solução foi feita na linguagem `go` e também com o uso de um wrapper
 escrito em c.
